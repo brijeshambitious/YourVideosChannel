@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666192317728",
+    "firebase_url": "https://fir-53d77.firebaseio.com",
+    "project_id": "fir-53d77",
+    "storage_bucket": "fir-53d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666192317728:android:bd6ec160808e03fb",
+        "android_client_info": {
+          "package_name": "com.app.yourvideoschannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666192317728-luumsf9pmgle4n4hu59dpe3enq0qv7vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0GZlYsHlJ4Kc5Q8tX12IRTczrtAcBuIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666192317728-luumsf9pmgle4n4hu59dpe3enq0qv7vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
